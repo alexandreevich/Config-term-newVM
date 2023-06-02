@@ -1,5 +1,5 @@
 # Command
-## Commands for beutiful terminal 
+## Commands for beautiful terminal 
 1. sudo apt install zsh
 2. sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 3. git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
